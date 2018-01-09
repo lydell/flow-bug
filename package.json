@@ -5,9 +5,9 @@
     "eslint": "eslint ."
   },
   "devDependencies": {
-    "babel-eslint": "8.1.2",
-    "eslint": "4.14.0",
+    "babel-eslint": "8.2.1",
+    "eslint": "4.15.0",
     "eslint-plugin-flowtype-errors": "3.3.6",
-    "flow-bin": "0.62.0"
+    "flow-bin": "0.63.1"
   }
 }
